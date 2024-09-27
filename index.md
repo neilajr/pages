@@ -1,5 +1,5 @@
 ---
-title: Waffle Git
+title: Nothing of consequence
 ---
 
 Only a certain number of tasks can be accomplished.
